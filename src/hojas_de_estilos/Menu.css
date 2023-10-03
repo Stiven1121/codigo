@@ -1,0 +1,15 @@
+.nav-link{
+	font-family: 'Arial', 'sans-serif;';
+	font-weight: bold;
+}
+
+.nav-link:hover{
+	 color: #ff5733; 
+  	transform: translateY(-3px);
+  	text-shadow: 5px 5px 5px whitesmoke;
+}
+
+.logo:hover{
+	transform: translate(10px);
+}
+
